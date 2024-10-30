@@ -60,3 +60,4 @@ C:\Users\OpeyemiOgunniyi\Desktop\A\C#\DbFirst\obj\Debug\net6.0\DbFirst.genruntim
 C:\Users\OpeyemiOgunniyi\Desktop\A\C#\DbFirst\obj\Debug\net6.0\ref\DbFirst.dll
 C:\Users\OpeyemiOgunniyi\Desktop\A\C#\DbFirst\bin\Debug\net6.0\DbFirst.xml
 C:\Users\OpeyemiOgunniyi\Desktop\A\C#\DbFirst\obj\Debug\net6.0\DbFirst.xml
+C:\Users\OpeyemiOgunniyi\Desktop\A\C#\DbFirst\obj\Debug\net6.0\DbFirst.sourcelink.json
