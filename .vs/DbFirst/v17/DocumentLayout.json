@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\dbfirst\\dbfirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|solutionrelative:dbfirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\dbfirst\\dbfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|solutionrelative:dbfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\dbfirst\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\dbfirst\\models\\lolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|solutionrelative:models\\lolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|c:\\users\\opeyemiogunniyi\\desktop\\a\\c#\\dbfirst\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37510F99-5F01-4676-BAF8-63E35AA08766}|DbFirst.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:30:04.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbFirst.csproj",
+              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\DbFirst.csproj",
+              "RelativeDocumentMoniker": "DbFirst.csproj",
+              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\DbFirst.csproj",
+              "RelativeToolTip": "DbFirst.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T12:27:25.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbFirst",
+              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\DbFirst.csproj",
+              "RelativeDocumentMoniker": "DbFirst.csproj",
+              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\DbFirst.csproj",
+              "RelativeToolTip": "DbFirst.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T12:27:43.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lolContext.cs",
+              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\Models\\lolContext.cs",
+              "RelativeDocumentMoniker": "Models\\lolContext.cs",
+              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\Models\\lolContext.cs",
+              "RelativeToolTip": "Models\\lolContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:35:51.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAmwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:30:54.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\OpeyemiOgunniyi\\Desktop\\A\\C#\\DbFirst\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:50:22.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

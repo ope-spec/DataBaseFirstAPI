@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DbFirst</name>
+    </assembly>
+    <members>
+        <member name="T:DbFirst.Controllers.SalesController">
+            <summary>
+            Controller for managing sales-related operations.
+            </summary>
+        </member>
+        <member name="M:DbFirst.Controllers.SalesController.#ctor(DbFirst.Models.lolContext)">
+            <summary>
+            Initializes a new instance of the <see cref="T:DbFirst.Controllers.SalesController"/> class.
+            </summary>
+            <param name="lolContext">The database context to interact with the sales data.</param>
+        </member>
+        <member name="M:DbFirst.Controllers.SalesController.GetSales">
+            <summary>
+            Retrieves all sales records.
+            </summary>
+            <returns>A list of all <see cref="T:DbFirst.Models.Sales"/> records.</returns>
+        </member>
+        <member name="M:DbFirst.Controllers.SalesController.GetSalesByPage(System.Int32,System.Int32)">
+            <summary>
+            Retrieves paginated sales records.
+            </summary>
+            <param name="pageNumber">The page number to retrieve. Defaults to 1.</param>
+            <param name="pageSize">The number of records per page. Defaults to 5.</param>
+            <returns>A paginated list of <see cref="T:DbFirst.Models.Sales"/> records.</returns>
+        </member>
+        <member name="M:DbFirst.Controllers.SalesController.GetSalesByPage(DbFirst.Controllers.SalesController.PaginationRequest)">
+            <summary>
+            Retrieves paginated sales records based on the specified request using POST.
+            </summary>
+            <param name="request">An object containing page number and page size for pagination.</param>
+            <returns>A paginated list of <see cref="T:DbFirst.Models.Sales"/> records.</returns>
+        </member>
+        <member name="T:DbFirst.Controllers.SalesController.PaginationRequest">
+            <summary>
+            Request object for pagination.
+            </summary>
+        </member>
+        <member name="P:DbFirst.Controllers.SalesController.PaginationRequest.PageNumber">
+            <summary>
+            The page number to retrieve. Defaults to 1.
+            </summary>
+        </member>
+        <member name="P:DbFirst.Controllers.SalesController.PaginationRequest.PageSize">
+            <summary>
+            The number of records per page. Defaults to 5.
+            </summary>
+        </member>
+    </members>
+</doc>
